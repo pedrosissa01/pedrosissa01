@@ -41,5 +41,23 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 
 ![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.2&include_all_commits=true&count_privete=true)
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrosissa01&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosissa01&theme=react&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
 📫 **Me encontre por aqui:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedrosissa)
