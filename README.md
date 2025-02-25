@@ -33,6 +33,8 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 
 ---
 
+<img heigth="180em" src="https://github-readme-stats.varcel.app/api?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_privete=true" />
+
 📈 **Estatísticas do GitHub:**
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=react&hide_border=true)
