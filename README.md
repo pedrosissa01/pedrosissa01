@@ -6,7 +6,7 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 - Desenvolvimento Full Stack com **Nuxt 3, Vue.js, Laravel e TypeScript**
 - Arquitetura e modelagem de sistemas escaláveis
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=pedrosissa01&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.2) ![README stats](https://github-readme-stats.vercel.app/api?username=pedrosissa01&show=reviews&show_icons=true&theme=transparent&hide_border=true)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=transparent&hide_border=true)
 
 📫 **Me encontre por aqui:**
 
