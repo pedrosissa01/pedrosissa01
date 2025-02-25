@@ -13,9 +13,11 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 📈 **Estatísticas do GitHub:**
+
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=transparent&hide_border=true)
 
 📊 **Linguagens mais usadas:**
+
 ![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrosissa01&show_icons=true&theme=transparent&hide_border=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.2)
 
 📫 **Me encontre por aqui:**
