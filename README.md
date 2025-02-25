@@ -36,11 +36,11 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 
 📈 **Estatísticas do GitHub:**
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&token=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)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=react&hide_border=true)
 
 📊 **Linguagens mais usadas:**
 
-![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.2&token=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)
+![Top langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=10&size_weight=0.2&count_weight=0.2)
 
 📫 **Me encontre por aqui:**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pedrosissa)
