@@ -17,7 +17,6 @@ Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educ
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![NitroJS](https://img.shields.io/badge/NitroJS-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=for-the-badge&logo=pinia&logoColor=white)
-![Vue Chart 3](https://img.shields.io/badge/VueChart3-4FC08D?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### 💾 **Banco de Dados & Backend**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
