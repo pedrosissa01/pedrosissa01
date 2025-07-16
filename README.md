@@ -1,41 +1,42 @@
-## Olá, eu sou o Pedro Sissa! 👋
+<h1 align="center">Olá, eu sou o Pedro Sissa!</h1>
 
-Sou **Tech Leader e Desenvolvedor de Software**, apaixonado por tecnologia, educação e inovação. Com mais de 5 anos de experiência, atuo em projetos que envolvem **backend, frontend, sistemas distribuídos e análise de dados**. Atualmente, líder de tecnologia na **Edubot**. 🚀
+###
 
-🎯 **O que eu faço?**
-- Desenvolvimento Full Stack com **Nuxt 3, Vue.js, Laravel e TypeScript**
-- Arquitetura e modelagem de sistemas escaláveis
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vuejs" height="60" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
 
-### 🚀 **Stack Principal**
-  
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![NitroJS](https://img.shields.io/badge/NitroJS-000000?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD43B?style=for-the-badge&logo=pinia&logoColor=white)
+###
 
-### 💾 **Banco de Dados & Backend**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrosissa01&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true" height="150" alt="streak graph"  />
+</div>
 
-### ☁️ **Infraestrutura & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosissa01/pedrosissa01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosissa01/pedrosissa01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pedrosissa01/pedrosissa01/output/pacman-contribution-graph.svg">
+</picture>
 
-📈 **Estatísticas do GitHub:**
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrosissa01&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_privete=true&locale=pt-br)
-
-📫 **Me encontre por aqui:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/pedrosissa)
+###
